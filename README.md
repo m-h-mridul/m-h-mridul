@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I am mridul
+---
 
-<!--
-**m-h-mridul/m-h-mridul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Twitter URL](https://img.shields.io/twitter/url?label=in%20Follow%20&style=social&url=https%3A%2F%2Ftwitter.com%2FMridul00449846)
+
+Junior Flutter Devoloper
+I creat some mobile application like Blood donation,Chating app,Puzzed word game etc.
+For backend using firebase
+
+---
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🔭 I’m currently working on Blood Donation project <br />
+  🌱 I’m currently learning golang,algorithm and flutter for web <br />
+  👯 I’m looking to an intership for increase my professional experience by doing live project
+
