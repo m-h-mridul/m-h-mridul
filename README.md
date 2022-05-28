@@ -5,14 +5,14 @@
 
 Junior Flutter Devoloper
 I creat some mobile application like Blood donation,Chating app,Puzzed word game etc.
-For backend using firebase
+For backend using firebase.
 
 ---
 
 
-Here are some ideas to get you started:
+Here are some about me:
 
-  🔭 I’m currently working on Blood Donation project <br />
-  🌱 I’m currently learning golang,algorithm and flutter for web <br />
-  👯 I’m looking to an intership for increase my professional experience by doing live project
+  🔭 I’m currently working on Blood Donation project. <br />
+  🌱 I’m currently learning golang,algorithm and flutter for web. <br />
+  👯 I’m looking to an intership for increase my professional experience by doing live project.
 
