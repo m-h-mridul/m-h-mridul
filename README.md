@@ -13,6 +13,5 @@ For backend using firebase.
 Here are some about me:
 
   🔭 I’m currently working on Blood Donation project. <br />
-  🌱 I’m currently learning golang,algorithm and flutter for web. <br />
-  👯 I’m looking to an intership for increase my professional experience by doing live project.
-
+  🌱 I’m currently learning React, NodeJs,algorithm and flutter for web. <br />
+  👯 
