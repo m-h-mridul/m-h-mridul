@@ -11,13 +11,6 @@
 - 📫 How to reach me: mhmridul2400@gmail.com
 </pre>
 
-
-## About Me
-
-Hello, world! 👋 I'm Mridul, a passionate Flutter developer with a flair for creating elegant and efficient mobile applications. I enjoy working on mobile applications. I create some mobile applications like Blood donation, Chating app, Puzzed word games etc and constantly seeking new opportunities to learn and grow.
-
-
-
 ## Skills
 - Programming languages: C, C++, Java, Javascript, Python, Go
 - Front-end: React-js, Flutter
@@ -40,6 +33,9 @@ Here are some of the cool projects I've worked on:
 
 For more, Not ready [portfolio website](https://link.to/your/portfolio)!
 
+## About Me
+
+Hello, world! 👋 I'm Mridul, a passionate Flutter developer with a flair for creating elegant and efficient mobile applications. I enjoy working on mobile applications. I create some mobile applications like Blood donation, Chating app, Puzzed word games etc and constantly seeking new opportunities to learn and grow.
 
 ##
 I'm always excited to connect with fellow developers, so feel free to reach out!
