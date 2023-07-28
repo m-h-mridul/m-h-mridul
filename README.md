@@ -1,9 +1,5 @@
 # Welcome to mridul's GitHub Profile 👋   [Link-in](https://www.linkedin.com/in/mhamudul-hasan-mridul/)  [medium](https://medium.com/@mhmridul2400) [Twitter](https://twitter.com/mhmridul14) 
 
-## About Me
-
-Hello, world! 👋 I'm Mridul, a passionate Flutter developer with a flair for creating elegant and efficient mobile applications. I enjoy working on mobile applications. I create some mobile applications like Blood donation, Chating app, Puzzed word games etc and constantly seeking new opportunities to learn and grow.
-
 <pre>
 - 🔭 I’m currently working on AWS
 - 🌱 I’m currently learning Dev Ops
@@ -14,6 +10,13 @@ Hello, world! 👋 I'm Mridul, a passionate Flutter developer with a flair for c
 - 💬 Ask me about:  Create a mobile application for real work experience.
 - 📫 How to reach me: mhmridul2400@gmail.com
 </pre>
+
+
+## About Me
+
+Hello, world! 👋 I'm Mridul, a passionate Flutter developer with a flair for creating elegant and efficient mobile applications. I enjoy working on mobile applications. I create some mobile applications like Blood donation, Chating app, Puzzed word games etc and constantly seeking new opportunities to learn and grow.
+
+
 
 ## Skills
 - Programming languages: C, C++, Java, Javascript, Python, Go
