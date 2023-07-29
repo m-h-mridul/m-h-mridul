@@ -23,13 +23,6 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-h-mridul&show_icons=true)
 
-## My Projects
-
-Here are some of the cool projects I've worked on:
-
-1. [Doner call](https://github.com/m-h-mridul/Donor-Call): User can find nearest donner to go blood in short time.  
-2. [Potro](https://github.com/m-h-mridul/chatapp): Register user can sent message, pdf,image and short video to other user
-3. [leetcode-75](https://github.com/m-h-mridul/leetcode-75): Practice problem solveing.
 
 For more, Not ready [portfolio website](https://link.to/your/portfolio)!
 
