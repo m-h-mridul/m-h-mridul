@@ -1,4 +1,5 @@
-# Welcome to mridul's GitHub Profile 👋  [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mhmridul14)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/mhamudul-hasan-mridul/))[![Twitter](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mhmridul2400)[![ANDORIAD](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://drive.google.com/drive/folders/15bJjYqEHwb25YOAa4AKLhBxgZpLI8FHo?usp=drive_link)
+# Welcome to mridul's GitHub Profile 👋 
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mhmridul14)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/mhamudul-hasan-mridul/))[![Twitter](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mhmridul2400)[![ANDORIAD](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://drive.google.com/drive/folders/15bJjYqEHwb25YOAa4AKLhBxgZpLI8FHo?usp=drive_link)
 
 <pre>
 - 🔭 I’m currently working on AWS
@@ -6,13 +7,13 @@
 - 👯 I’m looking to collaborate on a mobile application work with AL
 - 🚀 I'm a software developer focused on Flutter and Dart programming.
 - 🎯 My primary goal is to craft high-quality and user-friendly mobile applications.
-- 💡 I love experimenting with new technologies and finding innovative solutions to challenges.
+- 💡 I love experimenting with new technologies and finding innovative solutions.
 - 💬 Ask me about Creating a mobile application for real work experience.
 - 📫 How to reach me: mhmridul2400@gmail.com
 </pre>
 
 ## Skills
-- Programming languages: C, C++, Java, Javascript, Python, Go
+- Programming languages: Dart,C,C++,Python,Java,JavaScript
 - Front-end: React-js, Flutter
 - Back-end: Nodejs, Django
 - Databases: Firebase, Mango
