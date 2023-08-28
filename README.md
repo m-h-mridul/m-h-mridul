@@ -28,7 +28,8 @@
 
 🌟 GCP Services - Firebase, Cloud Function, Cloud Storage, Cloud Firestore, VPC, Firewall etc.
 
- 📊 Statistics GitHub Stats
+
+ ## 📊 Statistics GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-h-mridul&show_icons=true)
 
