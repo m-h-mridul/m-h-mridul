@@ -11,16 +11,24 @@
 - 💬 Ask me about Creating a mobile application for real work experience.
 - 📫 How to reach me: mhmridul2400@gmail.com
 </pre>
-## Skills
-<pre>
-  - Programming languages: Dart, C, C++, Python, Java, JavaScript.
-  - Front-end: React-js, Flutter.
-  - Back-end: Nodejs, Django.
-  - Databases: Firebase, Mango.
-  - Other: Linux, AWS...
-</pre>
- 
-## GitHub Stats
+
+## Skills 🛠️ and Expertise 💪 
+
+🌐 Languages - Dart, C, C++, Python, Java, JavaScript, Go, HTML, CSS, SQL, R, Bash.
+
+🍥 Frontend -  Flutter, React-js, Bootstrap, Material UI, Tailwind CSS.
+
+🚀 Backend -  NodeJS, ExpressJS, REST API, Firebase, MongoDB.
+
+⚡ DevOps: Nginx, Redis, Docker, Git etc.
+
+☁️ Cloud Services -
+
+🔥 AWS Services -  EC2, IAM, API Gateway
+
+🌟 GCP Services - Firebase, Cloud Function, Cloud Storage, Cloud Firestore, VPC, Firewall etc.
+
+ 📊 Statistics GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-h-mridul&show_icons=true)
 
