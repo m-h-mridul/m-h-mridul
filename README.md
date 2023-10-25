@@ -4,7 +4,6 @@
 <pre>
 - 🔭 I’m currently working on AWS
 - 🌱 I’m currently learning Dev Ops
-- 👯 I’m looking to collaborate on a mobile application work with AL
 - 🚀 I'm a software developer focused on Flutter and Dart programming.
 - 🎯 My primary goal is to craft high-quality and user-friendly mobile applications.
 - 💡 I love experimenting with new technologies and finding innovative solutions.
@@ -14,19 +13,19 @@
 
 ## Skills 🛠️ and Expertise 💪 
 
-🌐 Languages - Dart, C, C++, Python, Java, JavaScript, Go, HTML, CSS, SQL, R, Bash.
+🌐 Languages - Dart, C, C++, Python, Java, Bash.
 
-🍥 Frontend -  Flutter, React-js, Bootstrap, Material UI, Tailwind CSS.
+🍥 Frontend -  Flutter.
 
 🚀 Backend -  NodeJS, ExpressJS, REST API, Firebase, MongoDB.
 
-⚡ DevOps: Nginx, Redis, Docker, Git etc.
+⚡ DevOps: Nginx, Redis, Docker, Git, Bash, etc.
 
-☁️ Cloud Services -
+☁️ Cloud Services - AWS, GPC.
 
-🔥 AWS Services -  EC2, IAM, API Gateway
+🔥 AWS Services -  EC2, IAM, API Gateway, EBS.
 
-🌟 GCP Services - Firebase, Cloud Function, Cloud Storage, Cloud Firestore, VPC, Firewall etc.
+🌟 GCP Services - Firebase, Cloud Function, Cloud Storage, Cloud Firestore, VPC, Firewall ,VXlanetc.
 
 
  ## 📊 Statistics GitHub Stats
