@@ -16,7 +16,7 @@
 
 🍥 Frontend -  Flutter.
 
-🚀 Backend -  NodeJS, ExpressJS, REST API, Firebase, MongoDB.
+🚀 Backend -  ExpressJS, REST API, Firebase, MongoDB.
 
 ⚡ DevOps: Nginx, Redis, Docker, Git, Bash, etc.
 
@@ -24,7 +24,7 @@
 
 🔥 AWS Services -  EC2, IAM, API Gateway, EBS.
 
-🌟 GCP Services - Firebase, Cloud Function, Cloud Storage, Cloud Firestore, VPC, Firewall ,VXlanetc.
+🌟 GCP Services - Firebase, Cloud Function, Cloud Storage, Cloud Firestore, VPC, Firewall, VXlan etc.
 
 
  ## 📊 Statistics GitHub Stats
